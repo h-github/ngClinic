@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/h-github/ngClinic#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  },
+  "dependencies": {
+    "browser-sync": "^2.14.0",
+    "browser-sync-spa": "^1.0.3",
+    "gulp-load-plugins": "^1.2.4",
+    "wiredep": "^4.0.0",
+    "wrench": "^1.5.9"
   }
 }
